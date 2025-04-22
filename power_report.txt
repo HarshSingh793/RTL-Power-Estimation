@@ -1,0 +1,107 @@
+========================================
+           RTL Power Report             
+========================================
+Technology Node   : 32nm
+Clock Frequency   : 1.0 GHz
+Supply Voltage    : 1.2 V
+----------------------------------------
+Flip-Flops          : 5
+Combinational Gates : 28
+Toggle Factor       : 0.2340
+----------------------------------------
+Dynamic Power       : 1.92 µW
+Leakage Power       : 142.80 µW
+Clock Power         : 0.50 µW
+Total Power         : 145.22 µW
+========================================
+
+Hierarchical Module-wise Breakdown:
+----------------------------------------
+
+Module: TOP            
+  Flip-Flops         : 1
+  Combo Gates        : 6
+  Dynamic Power      : 0.40 µW
+  Leakage Power      : 30.00 µW
+  Clock Power        : 0.10 µW
+  Total Module Power : 30.50 µW
+
+Module: and_gate       
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: buf_gate       
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: dff            
+  Flip-Flops         : 2
+  Combo Gates        : 0
+  Dynamic Power      : 0.20 µW
+  Leakage Power      : 16.80 µW
+  Clock Power        : 0.20 µW
+  Total Module Power : 17.20 µW
+
+Module: inv_gate       
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: mux2           
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: nand_gate      
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: nor_gate       
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: or_gate        
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
+
+Module: top_module     
+  Flip-Flops         : 2
+  Combo Gates        : 14
+  Dynamic Power      : 0.91 µW
+  Leakage Power      : 67.20 µW
+  Clock Power        : 0.20 µW
+  Total Module Power : 68.31 µW
+
+Module: xor_gate       
+  Flip-Flops         : 0
+  Combo Gates        : 1
+  Dynamic Power      : 0.05 µW
+  Leakage Power      : 3.60 µW
+  Clock Power        : 0.00 µW
+  Total Module Power : 3.65 µW
